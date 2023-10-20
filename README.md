@@ -4,7 +4,7 @@
 
 ---
 
-**Welcome to the Rust Foundation Nyeri Development Environment Setup Repository!**
+**Welcome | Development Environment Setup**
 
 This repository is a comprehensive guide designed to assist developers, both new and experienced, in configuring their development environments for Rust programming. Whether you're just starting with Rust or looking to fine-tune your setup, you're in the right place.
 
