@@ -38,4 +38,3 @@ We encourage contributions! If you have additional insights, tips, or platform-s
 
 ---
 
-Feel free to customize or adjust this description to better suit the specific details and goals of the Rust Foundation Nyeri's development environment setup repository.
